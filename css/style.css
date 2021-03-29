@@ -1,0 +1,224 @@
+/***************************index.html tags******************************/
+body {
+  color: #536162;
+  text-align: center;
+}
+
+.top-container {
+  background-color: #dbf6e9;
+  text-align: center;
+  color: #66bfbf;
+  font-family: 'Sacramento', cursive;
+}
+
+.size {
+  font-size: 50px;
+}
+
+.img1 {
+  position: relative;
+  top: 50px;
+  right: 300px;
+}
+
+.img2 {
+  position: relative;
+  top: 180px;
+  left: 250px;
+}
+
+span {
+  text-decoration: underline;
+  font-size: 150%;
+}
+
+.middle-container {
+  background-color: #c8eed9;
+  font-family: 'Abhaya Libre', serif;
+}
+
+.img4 {
+  margin-top: 50px;
+}
+
+.ok {
+  margin-top: 50px;
+  font-size: 40px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.img5 {
+  width: 20%;
+  float: left;
+  margin-right: 15px;
+  position: relative;
+  top: 13px;
+}
+
+.img6 {
+  width: 20%;
+  float: left;
+  margin-right: 15px;
+  position: relative;
+  top: 15px;
+}
+
+.btn1 {
+  border-radius: 8px;
+  background-color: #00af91;
+  color: #fff;
+  height: 30px;
+  width: 100px;
+  border: none;
+}
+
+.btn1:hover {
+  color: #fff;
+  cursor: pointer;
+  background-color: #16c79a;
+}
+
+.btn1 {
+  margin-bottom: 30px;
+}
+
+.hr2 {
+  margin-bottom: 30px;
+}
+
+hr {
+  color: #edffec;
+  border-width: 8px;
+  width: 10%;
+  border-style: dotted;
+  border-top: 5px;
+}
+
+.profile {
+  text-align: center;
+  width: 30%;
+  margin: auto;
+  line-height: 2;
+}
+
+.bottom-container {
+  background-color: #caf7e3;
+  font-family: 'Abhaya Libre', serif;
+}
+
+.footer-link1 {
+  margin-right: 20px;
+}
+
+.btn2 {
+  margin-top: 20px;
+  border-radius:5px;
+  height: 40px;
+  width: 40px;
+}
+
+.btn3 {
+  margin-top: 20px;
+  border-radius: 5px;
+  height: 40px;
+  width: 40px;
+}
+
+.copyright {
+  color: #289672;
+  margin-top: 15px;
+}
+
+/*****************************contact.html tags***************************************/
+.body {
+  background-color: #c8eed9;
+  text-align: left;
+}
+
+.address {
+  font-family: 'Courgette', cursive;
+  font-size: 40px;
+}
+
+.con {
+  font-family: 'Yellowtail', cursive;
+  font-size: 30px;
+}
+
+.mycontact {
+  font-family: 'Courgette', cursive;
+  font-size: 40px;
+  margin-top: 20px;
+}
+
+.contact {
+  font-family: 'Yellowtail', cursive;
+}
+
+.name {
+  font-size: 20px;
+  margin-right: 10px;
+}
+
+.Name {
+  background-color: #f0e4d7;
+  border-color: grey;
+  color: #ff005c;
+  position: relative;
+  left: 33px;
+  font-style: italic;
+}
+
+.email {
+  font-size: 20px;
+  margin-right: 10px;
+}
+
+.Email {
+  background-color: #f0e4d7;
+  border-color: grey;
+  color: #ff005c;
+  position: relative;
+  left: 33px;
+  font-style: italic;
+}
+
+.message {
+  font-size: 20px;
+  position: relative;
+  right: 3px;
+}
+
+.Message {
+  background-color: #f0e4d7;
+  color: #ff005c;
+  font-style: italic;
+  border-color: grey;
+  position: relative;
+  left: 130px;
+  bottom: 20px;
+}
+
+.submit{
+  border-radius: 8px;
+  background-color: #536162;
+  color: #fff600;
+  font-weight: bolder;
+  margin-left: 60px;
+  border-color: #28527a;
+}
+
+.reset{
+  border-radius: 8px;
+  background-color: #536162;
+  color: #fff600;
+  font-weight: bolder;
+  border-color: #28527a;
+  margin-left: 20px;
+}
